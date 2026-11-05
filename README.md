@@ -40,7 +40,13 @@ flowchart LR
 
 ### Demo
 
-<!-- Put your photos in lab1-combinational-circuits/images/ and uncomment: -->
+
+
+https://github.com/user-attachments/assets/84079b33-508f-456c-b16e-ad72b182298f
+
+
+
+<!--  -->
 <!-- ![4-bit adder running on DE2-115](lab1-combinational-circuits/images/adder_board.jpg) -->
 <!-- ![RTL Viewer](lab1-combinational-circuits/images/rtl_viewer.png) -->
 
