@@ -1,0 +1,25 @@
+# Quartus generated files
+db/
+incremental_db/
+output_files/
+simulation/
+greybox_tmp/
+*.rpt
+*.summary
+*.smsg
+*.done
+*.jdi
+*.sld
+*.pin
+*.qws
+*.bak
+*.sof
+*.pof
+
+# Simulation
+*.vvp
+*.vcd
+
+# OS
+Thumbs.db
+desktop.ini
