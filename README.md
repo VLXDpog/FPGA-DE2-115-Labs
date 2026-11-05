@@ -44,6 +44,18 @@ Exercise 2
 
 https://github.com/user-attachments/assets/84079b33-508f-456c-b16e-ad72b182298f
 
+Exercise 3
+
+https://github.com/user-attachments/assets/f5d888d0-42d9-4fc1-9c1d-a18b47bb235d
+
+Exercise 4
+
+https://github.com/user-attachments/assets/880fa1da-a3c0-44f6-a3be-198ada95296f
+
+Exercise 5
+
+https://github.com/user-attachments/assets/4c2f2f42-d5f2-4236-8a27-a4a239dd8286
+
 
 
 <!--  -->
